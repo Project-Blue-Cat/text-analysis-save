@@ -1,0 +1,8 @@
+{
+  "TEXT_RESULT_TOPIC": "project-blue-cat-text-result-topic",
+  "RESULT_BUCKET": "project-blue-cat-documents",
+  "TRANSLATE_TOPIC": "project-blue-cat-translation-topic",
+  "TEXT_BUCKET": "test-data-text",
+  "TRANSLATE": true,
+  "TO_LANG": ["en", "fr", "es", "ja", "ru"]
+}
